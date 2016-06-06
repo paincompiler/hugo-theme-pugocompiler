@@ -1,0 +1,18 @@
+name = "PugoCompiler"
+license = "MIT"
+licenselink = "https://github.com/paincompiler/hugo-theme-pugocompiler/blob/master/LICENSE"
+description = "Yet another hugo theme modified base on [Detox], originally designed by Jordan Bowman (@jrdnbwmn)."
+homepage = "https://github.com/paincompiler/hugo-theme-pugocompiler"
+tags = ["blog", "minimal", "ghost", "white"]
+features = ["blog", "disqus", "google analytics", "pagination", "rss", "sharing options"]
+min_version = 0.14
+
+[author]
+  name = "PainCompiler"
+  homepage = "paincompiler.com"
+
+# If porting an existing theme
+[original]
+  name = "Andrew R. Jenkins"
+  homepage = "http://andrewrjenkins.com"
+  repo = "https://github.com/allnightgrocery/hugo-theme-blueberry-detox"
